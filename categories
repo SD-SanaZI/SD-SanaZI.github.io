@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "category": "Fire"
+        },
+        {
+            "id": 2,
+            "category": "Animal"
+        },
+        {
+            "id": 3,
+            "category": "Category3"
+        },
+        {
+            "id": 4,
+            "category": "Category4"
+        },
+        {
+            "id": 5,
+            "category": "Category5"
+        },
+        {
+            "id": 6,
+            "category": "Category6"
+        },
+        {
+            "id": 7,
+            "category": "Category7"
+        },
+        {
+            "id": 8,
+            "category": "Category8"
+        },
+        {
+            "id": 9,
+            "category": "Category9"
+        },
+        {
+            "id": 10,
+            "category": "Category10"
+        }
+    ]
+}
